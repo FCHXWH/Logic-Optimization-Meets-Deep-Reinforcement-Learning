@@ -20,3 +20,7 @@ the area and delay of digital circuits continually. However, the order of applyi
 ## Run:
 1. Edit parameters.py;
 2. Run python LODRL_Stable_Baselines3
+
+## Other materials:
+1. VE693_Project.pdf: project report;
+2. Course-Syllabus-VE693-Fall2021.pdf: course syllabus of course ve693 (Deep Reinforcement Learning).
